@@ -10,7 +10,7 @@ public class Ex24 {
 		System.out.println(5/9*(f-32.0));
 		
 		
-		답  미정 
+		답   미정 
 		
 		
 	}
