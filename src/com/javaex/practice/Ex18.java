@@ -1,19 +1,16 @@
 package com.javaex.practice;
-/*
-public class Ex18 {
 
-	다음의 코드를 컴파일 할 때 오류가 발생한다. 오류의 원인은?
+public class Ex18 {
+	
 	public static void main(String[] args) {
 		
 		int x;
+		x = 1; // x의 값이 누락 되어 진행
 		System.out.println(x);
+			
 		
-		답   
-		
-		
+
 	}
-	
-	
-	
+
+
 }
-*/
