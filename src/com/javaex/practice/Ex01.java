@@ -11,7 +11,7 @@ public class Ex01 {
 	(3) byte		
 	(4) long		
 		
-	2번
+	  답   2번
 			
 	*/ //= 주석 메모 
 	// 답 
