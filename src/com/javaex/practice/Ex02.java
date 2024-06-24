@@ -7,7 +7,7 @@ public class Ex02 {
 (3) JDK는 개발도구 와 JRE로 구성되어 있다. 
 (4) JDK에는 javac.exe가 포함되어 있지 않다.
 	
-       답
+       답 1번 
 	
 	*/
 }
