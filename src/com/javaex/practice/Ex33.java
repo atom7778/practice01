@@ -1,21 +1,24 @@
 package com.javaex.practice;
-/*
-public class Ex33 {
 
+import java.util.Scanner;
+
+public class Ex33 {
+	
 	public static void main(String[] args) {
-	사용자로부터 구의 반지름을 입력받아 구의 부피를 계산하는 프로그램을 작성하세요.
-	
-	반지름: 5
-	구의부피는: 523.3333333333334 입니다.
 		
-	반지름: 12
-	구의부피는: 7234.5599999999995 입니다.
+		Scanner sc = new Scanner(System.in);
 		
+		System.out.print("반지름: ");
 		
+		double r = sc.nextDouble();
+		
+		sc.nextLine();
+		
+		double v = 4.0/3.0*3.14*Math.pow(r,3);
+		
+		System.out.println("구의 부피는: "+ v+" 입니다.");
+		
+		sc.close();
 	}
-	
-	
-	
-	
+
 }
-*/
